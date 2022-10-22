@@ -1,0 +1,2 @@
+C:\Users\Dave\Documents\fossils\psoc_start\psoc\Rust\minimum_rust_start.cydsn\TopDesign\TopDesign.cysch
+C:\Users\Dave\Documents\fossils\psoc_start\psoc\Rust\minimum_rust_start.cydsn\minimum_rust_start.cydwr
