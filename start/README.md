@@ -16,7 +16,7 @@ To use this repo:
 `git clone https://github.com/diagonalDave/psoc-start.git`
 3. Navigate to the start directory then run both of the nushell scripts to kcik off the library build:
 ` nu build_release.nu
-  nu build_debug.nu`
+  nu build_debug.nu` 
 4. Open the psoc-creator project then build the project with either debug or release profile.
    -  Download to the ble board and watch the leds blink.
 5. Alternatively build the project using the makefile in the minimum_rust_start.cydsn folder, then download it to the device using ([openocd] (https://github.com/Infineon/openocd/releases)).
