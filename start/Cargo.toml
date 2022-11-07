@@ -1,19 +1,20 @@
 [package]
-name = "start"
+name = "rustypsoc"
 version = "0.1.0"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 [lib]
-name = "start"
+name = "rustypsoc"
 #crate-type = ["cdylib"]      # Creates dynamic lib
 crate-type = ["staticlib"] # Creates static lib
 
 
 [dependencies]
-psoc6-hal = {git = "https://github.com/diagonalDave/psoc6-hal.git"}
+psoc6-hal = {path = "C:/Users/Dave/Documents/fossils/psoc6_hal/"}
 cortex-m = "0.7.6"
 panic-semihosting = "0.6.0"
+cty = "0.2.2"
 
 
 [profile.dev]

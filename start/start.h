@@ -1,11 +1,9 @@
-#ifndef DH_START_H
-#define DH_START_H
-#include <stdarg.h>
-#include <stdbool.h>
-#include <stdint.h>
-#include <stdlib.h>
+#ifndef DH_RUSTYPSOC_SYS_H
+#define DH_RUSTYPSOC_SYS_H
 
+//blinky stuff
 void start_cm0(void);
 
 void start_cm4(void);
-#endif //DH_START_H
+
+#endif //DH_RUSTYPSOC_SYS_H
