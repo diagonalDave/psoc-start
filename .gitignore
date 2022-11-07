@@ -1,6 +1,6 @@
-/start/src/target/*
+/start/src/target
 /start/Cargo.lock
-/psoc/Rust/minimum_rust_start.cydsn/CortexM0p/
+/psoc/Rust/minimum_rust_start.cydsn/CortexM0p
 /psoc/Rust/minimum_rust_start.cydsn/CortexM4/
 /psoc/Rust/minimum_rust_start.cydsn/Generated_Source/
 /psoc/Rust/minimum_rust_start.cydsn/iar/
