@@ -11,10 +11,9 @@ crate-type = ["staticlib"] # Creates static lib
 
 
 [dependencies]
-psoc6-hal = {path = "C:/Users/Dave/Documents/fossils/psoc6_hal/"}
+psoc6-hal = {git = "https://github.com/diagonalDave/psoc6-hal.git"}
 cortex-m = "0.7.6"
 panic-semihosting = "0.6.0"
-cty = "0.2.2"
 
 
 [profile.dev]

@@ -7,10 +7,11 @@ psoc/Rust/minimum_rust_start.cydsn/iar/
 psoc/Rust/minimum_rust_start.cydsn/mdk/
 psoc/Rust/minimum_rust_start.cydsn/gcc/
 psoc/Rust/minimum_rust_start.cydsn/codegentemp/
-psoc/Rust/minimum_rust_start.cydsn/*.log
 psoc/Rust/minimum_rust_start.cydsn/*.scat
 psoc/Rust/minimum_rust_start.cydsn/*.icf
 psoc/Rust/minimum_rust_start.cydsn/*.html
 psoc/Rust/minimum_rust_start.cydsn/*.rpt
-psoc/Rust/minimum_rust_start.cydsn/*.cycdx
-psoc/Rust/*Dave
+psoc/Rust/minimum_rust_start.cydsn/*.cycdax
+psoc/Rust/minimum_rust_start.cydsn/*.cyfit
+psoc/Rust/**/*Dave
+**/*.log

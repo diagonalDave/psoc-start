@@ -1,6 +1,6 @@
 # Generic GNU Make driver file.
 OUT_DIR= output
-CONFIG= release
+CONFIG= debug
 GEN_SOURCE_DIR= Generated_Source/PSoC6
 
 include platform_$(CONFIG).mk
