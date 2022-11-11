@@ -1,6 +1,0 @@
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|a6008324-f8eb-4666-886d-21f636a17957
-C:\Users\Dave\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|6a057657-23b6-4163-a8f6-d092b74b2e42
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|67422ba5-44ba-4c31-b9dd-0dd39349de30
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|3070c3f1-a780-408d-aed8-ac9621b62dee
-C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|aedf76ac-d19d-4c1c-acef-0e1873f1e5f9
-C:\Users\Dave\Documents\fossils\psoc_start\psoc\Rust\minimum_rust_start.cydsn\minimum_rust_start.cyprj|143e4ae4-205c-4e05-ad7a-3c153d969a7a
