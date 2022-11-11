@@ -10,3 +10,7 @@ psoc/Rust/minimum_rust_start.cydsn/codegentemp/
 psoc/Rust/minimum_rust_start.cydsn/*.log
 psoc/Rust/minimum_rust_start.cydsn/*.scat
 psoc/Rust/minimum_rust_start.cydsn/*.icf
+psoc/Rust/minimum_rust_start.cydsn/*.html
+psoc/Rust/minimum_rust_start.cydsn/*.rpt
+psoc/Rust/minimum_rust_start.cydsn/*.cycdx
+psoc/Rust/*Dave

@@ -1,5 +1,6 @@
 #![no_std]
-//! This version of RustyPsoc implements a semaphore for signalling
+#![allow(unused_imports)]
+//! This version of start implements a semaphore for signalling
 //! between the cores to blink the LEDs on a CY8PROTO-063-BLE
 //! board. The blinking has two modes:
 //! - set semaphore, both LEDS are on.
@@ -28,6 +29,7 @@ use psoc6_hal::{
 #[no_mangle]
 #[cfg(not(armv7em))]
 pub extern "C" fn start_cm0() -> ! {
+    
     //
     let mut psoc = Psoc::new();
    
